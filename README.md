@@ -1,6 +1,9 @@
 # PulpProject.Ansible-Galaxy-Server
-## Home:
-https://pulpproject.org/pulp_ansible/
+# Home:
+https://pulpproject.org/
+
+## Doc:
+Ansible Galaxy: https://pulpproject.org/pulp_ansible/
 
 source: https://github.com/pulp/pulp_ansible
 
